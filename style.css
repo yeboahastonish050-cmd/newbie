@@ -34,8 +34,9 @@ body {
 }
 
 .profile {
-    padding: 0.625rem 3.125rem;
-    width: 15.625rem;
+    padding-top:1.25rem;
+    padding-left:3.125rem;
+    width: 17rem;
 }
 
 .message {
@@ -84,8 +85,8 @@ body {
 
 footer {
     display: flex;
-    justify-content: space-between;
-    margin: 0rem 1.875rem;
+    justify-content: flex-end;
+    margin-top:-1.25rem;
 
     .fa-brands {
         width: 2.5rem;
@@ -160,7 +161,7 @@ footer {
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        margin-top:-50px;
+        margin-top:-3.125rem;
 
         .icons {
         
@@ -174,3 +175,4 @@ footer {
     }
 
 }
+
