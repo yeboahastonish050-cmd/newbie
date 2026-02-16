@@ -87,9 +87,10 @@ footer {
     display: flex;
     justify-content: flex-end;
     margin-top:-1.25rem;
+    margin-right:4.375rem;
 
     .fa-brands {
-        width: 2.5rem;
+        width:1.3rem;
     }
 }
 
@@ -162,6 +163,7 @@ footer {
         justify-content: center;
         align-items: center;
         margin-top:-3.125rem;
+        margin-right:0rem;
 
         .icons {
         
@@ -169,11 +171,12 @@ footer {
             .fa-brands {
                 margin: 0.625rem;
 
-                width: 1.25rem;
+    
             }
         }
     }
 
 }
+
 
 
