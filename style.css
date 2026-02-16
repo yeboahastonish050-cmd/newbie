@@ -43,7 +43,7 @@ body {
     padding: 1.875rem;
 
     p {
-        font-size: 0.6875rem;
+        font-size: 0.9375rem;
         line-height: 1.5;
         margin-bottom: 1.25rem;
         color: white;
@@ -67,7 +67,7 @@ body {
     }
 
     button {
-        padding: 0.625rem 2.5rem;
+        padding:1rem 3rem;
         border-radius: 1.25rem;
         border: 0.0625rem solid purple;
         background-color: white;
@@ -146,7 +146,7 @@ footer {
         }
 
         button {
-            padding: 0.625rem 2.5rem;
+            padding: 0.625rem 4.5rem;
             border-radius: 1.25rem;
             border: 0.0625rem solid purple;
             background-color: white;
@@ -175,4 +175,5 @@ footer {
     }
 
 }
+
 
