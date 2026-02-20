@@ -85,16 +85,18 @@ footer {
     justify-content: center;
     margin-bottom: 10px;
 
-    .fa-brands {
-        border: 2px solid white;
-        margin-right: 5px;
-        padding: 2px 8px;
+    .div {
         border-radius: 50%;
+        margin: 5px;
+        border: 2px solid white;
+        padding: 2px 4px;
         cursor: pointer;
     }
 
-    .fa-brands:hover {
+    .div:hover {
+
         border-color: hsl(300, 69%, 71%);
+
     }
 }
 
@@ -195,18 +197,22 @@ footer {
         margin-top: -60px;
         margin-right: 80px;
 
-        .fa-brands {
-            border: 2px solid white;
-            margin-right: 5px;
-            padding: 2px 8px;
-            border-radius: 50%;
-            cursor: pointer;
-        }
 
-        .fa-brands:hover {
-            border-color: hsl(300, 69%, 71%);
-        }
+
+
     }
 
-}
+    .div {
+        border-radius: 50%;
+        margin: 5px;
+        border: 2px solid white;
+        padding: 2px 4px;
+        cursor: pointer;
+    }
 
+    .div:hover {
+
+        border-color: hsl(300, 69%, 71%);
+
+    }
+}
